@@ -4,30 +4,29 @@ import java.util.Scanner;
 
 public class ejercicio04 {
     public static void main(String[] args) {
-        int a;
-        int b;
-        int menor;
-        int mayor = 0;
+        int n1,
+         n2,
+         menor,
+         mayor = 0;
 
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Introduzca el primer número: ");
-        a = sc.nextInt();
+        n1 = sc.nextInt();
         System.out.println("Introduzca el segundo número: ");
-        b = sc.nextInt();
+        n2 = sc.nextInt();
 
-        if (a == b){
+        if (n1 == n2){
             System.out.println("Los números no pueden ser iguales");
         }
-
         else {
-            if(a < b){
-                menor = a;
-                mayor = b;
+            if(n1 < n2){
+                menor = n1;
+                mayor = n2;
             }
             else{
-                menor = b;
-                mayor = a;
+                menor = n2;
+                mayor = n1;
             }
 
             for (int i = menor; i >=1 ; i--) {

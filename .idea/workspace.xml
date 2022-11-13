@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f949ad11-3247-4234-a9dd-4e53fdadbb8c" name="Changes" comment="nrgjrs">
-      <change afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2022_13_18__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2022_13_18__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio04.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +47,20 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ejercicio02">
+  <component name="RunManager" selected="Application.Ejercicio05">
+    <configuration name="Ejercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.Ejercicio05" />
+      <module name="EjerciciosT3-LydiaPerez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ejercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio02" />
       <module name="EjerciciosT3-LydiaPerez" />
@@ -92,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ejercicio05" />
         <item itemvalue="Application.ejercicio02" />
         <item itemvalue="Application.ejercicio04" />
         <item itemvalue="Application.ejercicio03" />
@@ -108,8 +119,17 @@
       <updated>1667996923601</updated>
       <workItem from="1667996925695" duration="2826000" />
       <workItem from="1668013215764" duration="10066000" />
-      <workItem from="1668332159845" duration="5485000" />
+      <workItem from="1668332159845" duration="5502000" />
+      <workItem from="1668359033181" duration="940000" />
     </task>
+    <task id="LOCAL-00001" summary="nrgjrs">
+      <created>1668348670332</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668348670332</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,15 +146,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ejercicios/ejercicio04.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nrgjrs" />
+    <option name="LAST_COMMIT_MESSAGE" value="nrgjrs" />
   </component>
 </project>
