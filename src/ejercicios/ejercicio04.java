@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class ejercicio04 {
     public static void main(String[] args) {
-        int n1,
-         n2,
-         menor,
+        int n1, //guardamos el primer numero
+         n2, //guardamos el segundo numero
+         menor,//guardaremos de los
          mayor = 0;
 
         Scanner sc = new Scanner(System.in);
