@@ -9,7 +9,7 @@ public class ejercicio03 {
 
         Scanner sc = new Scanner (System.in);
 
-        System.out.print("Introduzca una base y altura para el triángulo: ");
+        System.out.print("Introduzca una valor para el triangulo: ");
         num = sc.nextInt();
 
         for(int i = 1; i <= num; i++) {

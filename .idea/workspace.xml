@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f949ad11-3247-4234-a9dd-4e53fdadbb8c" name="Changes" comment="et">
-      <change afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +75,14 @@
       <updated>1667996923601</updated>
       <workItem from="1667996925695" duration="2826000" />
     </task>
+    <task id="LOCAL-00001" summary="et">
+      <created>1668411667696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668411667696</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,5 +98,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="et" />
+    <option name="LAST_COMMIT_MESSAGE" value="et" />
   </component>
 </project>
