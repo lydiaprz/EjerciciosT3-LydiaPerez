@@ -33,13 +33,13 @@ public class ejercicio01 {
             //que sean menos de 60
             while ((segundos+incremento)>59){
                 segundos=(segundos+incremento)-60;
-                minutos+=1;
+                minutos++;
             }
             //Cuando los segundos sean menor que 60 comprobaremos los minutos y en
             //caso de que superen los 59 se les restara 60 y se sumara una hora
             while (minutos>59){
                 minutos-=60;
-                horas+=1;
+                horas++;
                 if (horas>23){
                     horas=0;
                 }
