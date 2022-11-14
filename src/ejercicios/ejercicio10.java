@@ -13,7 +13,7 @@ public class ejercicio10 {
         //le pedimos al usuario un numero
         System.out.println("Introduzca un numero:");
         n= sc.nextInt();
-        //le asignamos aaux el valor de n para no modificarlo directamente en n y perderlo
+        //le asignamos a aux el valor de n para no modificarlo directamente en n y perderlo
         aux=n;
         //mientras el numero no se quede sin cifras, osea valga 0, irle
         // asignando a cifra la ultima cifra del numero e interoduciendola en la variable inverso
