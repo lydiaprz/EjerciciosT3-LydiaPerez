@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * las pruebas hechas son:
- *
+ * 23:59:59, incr 10 ---> 0:0:9
  */
 
 public class ejercicio01 {

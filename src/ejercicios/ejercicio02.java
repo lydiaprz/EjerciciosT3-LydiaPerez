@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * las pruebas realizadas son:
- *
+ * 10 ---> 7, 5, 3, 2, son primos, hay 4 primos
  */
 public class ejercicio02 {
     public static void main(String[] args) {

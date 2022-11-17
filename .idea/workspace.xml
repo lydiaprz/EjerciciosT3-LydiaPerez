@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f949ad11-3247-4234-a9dd-4e53fdadbb8c" name="Changes" comment="et">
+    <list default="true" id="f949ad11-3247-4234-a9dd-4e53fdadbb8c" name="Changes" comment="nrgjrs">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2022_13_18_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_11_2022_13_18__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/Ejercicio05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/Ejercicio05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ejercicios/ejercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ejercicio09.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -45,9 +58,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ejercicio07">
-    <configuration name="ejercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio04" />
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lpg16\OneDrive\Escritorio\1º DAM\programacion\programacion java\EjerciciosT3-LydiaPerez\src\ejercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ejercicio10">
+    <configuration name="ejercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio06" />
       <module name="EjerciciosT3-LydiaPerez" />
       <extension name="coverage">
         <pattern>
@@ -61,6 +79,19 @@
     </configuration>
     <configuration name="ejercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio07" />
+      <module name="EjerciciosT3-LydiaPerez" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicios.ejercicio08" />
       <module name="EjerciciosT3-LydiaPerez" />
       <extension name="coverage">
         <pattern>
@@ -100,10 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ejercicio07" />
-        <item itemvalue="Application.ejercicio04" />
         <item itemvalue="Application.ejercicio10" />
         <item itemvalue="Application.ejercicio09" />
+        <item itemvalue="Application.ejercicio08" />
+        <item itemvalue="Application.ejercicio07" />
+        <item itemvalue="Application.ejercicio06" />
       </list>
     </recent_temporary>
   </component>
@@ -116,57 +148,36 @@
       <option name="presentableId" value="Default" />
       <updated>1667996923601</updated>
       <workItem from="1667996925695" duration="2826000" />
+      <workItem from="1668013215764" duration="10066000" />
+      <workItem from="1668332159845" duration="5502000" />
+      <workItem from="1668359033181" duration="1211000" />
+      <workItem from="1668362364160" duration="5548000" />
+      <workItem from="1668544434651" duration="595000" />
+      <workItem from="1668613801169" duration="6848000" />
+      <workItem from="1668688607293" duration="1069000" />
     </task>
-    <task id="LOCAL-00001" summary="et">
-      <created>1668411667696</created>
+    <task id="LOCAL-00001" summary="nrgjrs">
+      <created>1668348670332</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1668411667696</updated>
+      <updated>1668348670332</updated>
     </task>
-    <task id="LOCAL-00002" summary="et">
-      <created>1668411938632</created>
+    <task id="LOCAL-00002" summary="nrgjrs">
+      <created>1668360371024</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1668411938632</updated>
+      <updated>1668360371024</updated>
     </task>
-    <task id="LOCAL-00003" summary="et">
-      <created>1668412353997</created>
+    <task id="LOCAL-00003" summary="nrgjrs">
+      <created>1668447702134</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1668412353997</updated>
+      <updated>1668447702134</updated>
     </task>
-    <task id="LOCAL-00004" summary="et">
-      <created>1668414111749</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1668414111749</updated>
-    </task>
-    <task id="LOCAL-00005" summary="et">
-      <created>1668414911167</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1668414911167</updated>
-    </task>
-    <task id="LOCAL-00006" summary="et">
-      <created>1668416003520</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1668416003520</updated>
-    </task>
-    <task id="LOCAL-00007" summary="et">
-      <created>1668416291706</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1668416291706</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,7 +195,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="et" />
-    <option name="LAST_COMMIT_MESSAGE" value="et" />
+    <MESSAGE value="nrgjrs" />
+    <option name="LAST_COMMIT_MESSAGE" value="nrgjrs" />
   </component>
 </project>

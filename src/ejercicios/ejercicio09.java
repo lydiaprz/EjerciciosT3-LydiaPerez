@@ -2,6 +2,10 @@ package ejercicios;
 
 import java.util.Scanner;
 
+/**
+ * las pruebas realizadas son:
+ *123456789 ---> tiene 9 cifras
+ */
 public class ejercicio09 {
     public static void main(String[] args) {
         int n, //numero que nos indique el usuario

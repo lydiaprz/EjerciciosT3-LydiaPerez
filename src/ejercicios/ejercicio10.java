@@ -2,6 +2,11 @@ package ejercicios;
 
 import java.util.Scanner;
 
+/**
+ * las prueabas realizadas son:
+ * 12321 ---> es capicua
+ * 12345 ---> no es capicua
+ */
 public class ejercicio10 {
     public static void main(String[] args) {
         int n, //guardaremos el numero para despues compararlo con el inverso

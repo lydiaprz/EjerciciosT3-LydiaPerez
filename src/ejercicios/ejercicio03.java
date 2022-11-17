@@ -2,6 +2,15 @@ package ejercicios;
 
 import java.util.Scanner;
 
+/**
+ * las pruebas realizadas son:
+ * 5
+ *      *
+ *     * *
+ *    * * *
+ *   * * * *
+ *  * * * * *
+ */
 public class ejercicio03 {
 
     public static void main(String[] args) {

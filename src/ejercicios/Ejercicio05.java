@@ -2,6 +2,10 @@ package ejercicios;
 
 import java.util.Scanner;
 
+/**
+ * las pruebas realizadas son:
+ *4, 6 ---> mcm 12
+ */
 public class Ejercicio05 {
     public static void main (String[] args){
         int n1,

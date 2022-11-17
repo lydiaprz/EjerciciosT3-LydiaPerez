@@ -2,6 +2,10 @@ package ejercicios;
 
 import java.util.Scanner;
 
+/**
+ * las pruebas realizadas son:
+ * 4, 6 ---> mcd es 2
+ */
 public class ejercicio04 {
     public static void main(String[] args) {
         int n1, //guardamos el primer numero

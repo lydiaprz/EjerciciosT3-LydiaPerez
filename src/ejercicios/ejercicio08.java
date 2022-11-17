@@ -2,6 +2,10 @@ package ejercicios;
 
 import java.util.Scanner;
 
+/**
+ * las pruebas realizadas son:
+ * 5, 3, 7, 25, 10, 0 ---> 5 numeros, 2 fallos
+ */
 public class ejercicio08 {
     public static void main(String[] args) {
         int n, //gardaremos el numero proporciionada por el usuario
